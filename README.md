@@ -53,13 +53,6 @@ I focus on writing clean, maintainable code and following best development pract
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
 
----
-
-### 📈 GitHub Stats  
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_ЮЗЕРНЕЙМ&show_icons=true&theme=react&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_GITHUB_ЮЗЕРНЕЙМ&theme=react" />
-</p>
 
 ---
 
