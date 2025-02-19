@@ -40,6 +40,7 @@ I focus on writing clean, maintainable code and following best development pract
 ### 🛠️ Tech Stack  
 **Languages & Frameworks:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass)  
 ![BEM](https://img.shields.io/badge/-BEM-000000?style=flat-square&logo=css3&logoColor=white)  
